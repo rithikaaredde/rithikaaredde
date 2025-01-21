@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rithikaaredde
-- 👀 I’m interested in reading and AIML
+- 👋 Hi, I'm Rithikaa 
+- 👀 I’m interested in pyschology and AIML
 - 🌱 I’m currently learning AIML from Symbiosis Institute Of Technology
 
 <!---
